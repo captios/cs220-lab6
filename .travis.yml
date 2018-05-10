@@ -1,6 +1,6 @@
 language: c
 compiler: gcc
 script:
-    - cd /hello/
+    - cd hello/
     - make clean all
     - ./hello
